@@ -8,6 +8,7 @@ Para iniciar o jogo, recomendo utilizar a extencao Live Server de Ritwick Dey, a
 
 clique nele e ele vai abrir o jogo automaticamente para voce
 
+](https://youtu.be/rXnP_8PKwRw)
 
 Alunos: Lohan Berg Bello Lima
 
